@@ -1,0 +1,54 @@
+body
+{
+	background-color: gray;
+}
+
+footer
+{
+	margin-top: 50px;
+}
+
+video
+{
+	border-radius: 100px;
+}
+img
+{
+	border-radius: 50px;
+}
+h1
+{
+	color:Red;
+	font-family:helvetica;
+}
+h2
+{
+	color:Green;
+	font-family:helvetica;
+	font-size:15px;	
+}
+h3
+{
+	color:Blue;
+	font-family:helvetica;
+	font-size:15px;	
+}
+
+p
+{
+	color:Brown;
+	font-family:helvetica;	
+}
+h4
+{
+	color:Grey;
+	font-family:helvetica;
+	font-size:15px;	
+}
+
+li
+{
+color:Blue;
+	font-family:helvetica;
+
+}
